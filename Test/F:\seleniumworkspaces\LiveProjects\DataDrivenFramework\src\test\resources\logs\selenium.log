@@ -1,0 +1,4 @@
+18:31:05,707 DEBUG devpinoyLogger:86 - Config file loaded !!!
+18:31:05,709 DEBUG devpinoyLogger:101 - OR file loaded !!!
+18:31:06,908 DEBUG devpinoyLogger:136 - Chrome Launched !!!
+18:31:08,307 DEBUG devpinoyLogger:146 - Navigated to : https://playactio.com/auth/login
